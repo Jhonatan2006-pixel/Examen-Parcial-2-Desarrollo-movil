@@ -4,8 +4,24 @@ Evaluación Parcial II - Desarrollo de Aplicaciones Móviles.
 
 | Carpeta | Contenido |
 |---|---|
+| `APK/GeoTracker.apk` | APK listo para instalar en un teléfono Android (8.0 o superior) |
 | `GeoTracker/` | App Android (Kotlin, Jetpack Compose, Material 3, MVVM) |
 | `BackendFinal/` | API REST (Node.js, Express, TypeScript, Sequelize, JWT) |
+
+## Pruebas
+
+**APK:** [`APK/GeoTracker.apk`](APK/GeoTracker.apk)
+
+**Backend:** `http://77.113.138.104:3001/` (AWS)
+
+**Usuarios de prueba** (cada uno ve solamente sus propias ubicaciones):
+
+| Nombre | Correo | Contraseña |
+|---|---|---|
+| Jhónatan Méndez | `jhonatan@geotracker.com` | `GeoTracker2026` |
+| Usuario Demo | `demo@geotracker.com` | `Demo2026` |
+
+El teléfono necesita conexión a internet y la ubicación (GPS) activada.
 
 ## App Android
 
