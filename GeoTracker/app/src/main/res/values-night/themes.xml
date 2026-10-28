@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tema de la ventana en modo oscuro -->
+    <style name="Theme.GeoTracker" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/fondo_oscuro</item>
+        <item name="android:colorPrimary">@color/primario</item>
+        <item name="android:colorAccent">@color/primario</item>
+    </style>
+</resources>

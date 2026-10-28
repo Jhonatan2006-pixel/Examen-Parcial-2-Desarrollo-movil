@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tema de la ventana: usa el fondo de la paleta para que la pantalla
+         de inicio no se vea blanca mientras carga la app -->
+    <style name="Theme.GeoTracker" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/fondo_claro</item>
+        <item name="android:colorPrimary">@color/primario</item>
+        <item name="android:colorAccent">@color/primario</item>
+    </style>
+</resources>

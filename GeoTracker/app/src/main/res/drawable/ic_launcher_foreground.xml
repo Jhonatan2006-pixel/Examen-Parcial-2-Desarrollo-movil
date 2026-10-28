@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ícono de la app: un pin de ubicación -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,30 C44.6,30 37,37.6 37,47 C37,59.8 54,78 54,78 C54,78 71,59.8 71,47 C71,37.6 63.4,30 54,30 Z" />
+    <path
+        android:fillColor="#FF415F91"
+        android:pathData="M54,40 A7,7 0 1,1 53.99,40 Z" />
+</vector>

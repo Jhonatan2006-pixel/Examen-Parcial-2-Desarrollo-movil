@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- General -->
+    <string name="app_name">GeoTracker</string>
+    <string name="back">Regresar</string>
+    <string name="close">Cerrar</string>
+    <string name="retry">Reintentar</string>
+    <string name="refresh">Actualizar</string>
+    <string name="latitude_value">Latitud: %1$s</string>
+    <string name="longitude_value">Longitud: %1$s</string>
+    <string name="coordinates_value">%1$s, %2$s</string>
+    <string name="created_at_value">Guardada el %1$s</string>
+
+    <!-- Login -->
+    <string name="login_title">Iniciar sesión</string>
+    <string name="app_subtitle">Registro de ubicaciones de interés</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login_button">Ingresar</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_greeting">Hola, %1$s</string>
+    <string name="dashboard_subtitle">¿Qué deseas hacer hoy?</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="option_capture">Capturar ubicación</string>
+    <string name="option_capture_desc">Guarda tu ubicación GPS actual</string>
+    <string name="option_list">Mis ubicaciones</string>
+    <string name="option_list_desc">Listado de las ubicaciones guardadas</string>
+    <string name="option_map">Ver en el mapa</string>
+    <string name="option_map_desc">Todas tus ubicaciones en Google Maps</string>
+
+    <!-- Captura -->
+    <string name="capture_title">Capturar ubicación</string>
+    <string name="capture_help">Escribe un nombre y una descripción. Al presionar el botón se obtendrá tu ubicación GPS actual y se guardará.</string>
+    <string name="location_name">Nombre de la ubicación</string>
+    <string name="location_description">Descripción</string>
+    <string name="capture_button">Capturar y guardar</string>
+    <string name="capture_getting_location">Obteniendo ubicación GPS…</string>
+    <string name="capture_sending">Guardando en el servidor…</string>
+    <string name="capture_last_saved">Última ubicación guardada</string>
+    <string name="permission_title">Permiso de ubicación</string>
+    <string name="permission_text">GeoTracker necesita acceder a tu ubicación para capturar las coordenadas. Puedes activarlo en los ajustes de la aplicación.</string>
+    <string name="open_settings">Abrir ajustes</string>
+
+    <!-- Listado -->
+    <string name="list_title">Mis ubicaciones</string>
+    <string name="list_loading">Cargando ubicaciones…</string>
+    <string name="list_empty">Aún no has guardado ninguna ubicación</string>
+    <string name="list_view_map">Ver en el mapa</string>
+
+    <!-- Mapa -->
+    <string name="map_title">Mapa de ubicaciones</string>
+    <string name="map_empty">No hay ubicaciones guardadas para mostrar en el mapa</string>
+    <string name="map_count">%1$d ubicaciones en el mapa</string>
+    <string name="dialog_description">Descripción</string>
+    <string name="dialog_coordinates">Coordenadas</string>
+    <string name="dialog_date">Fecha de registro</string>
+
+</resources>

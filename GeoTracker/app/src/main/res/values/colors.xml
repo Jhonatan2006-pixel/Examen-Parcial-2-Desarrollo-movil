@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores de la ventana antes de que cargue Compose (pantalla de inicio y barras del sistema).
+         Son los mismos de la paleta Material 3 definida en ui/theme/Color.kt -->
+    <color name="fondo_claro">#FFF9F9FF</color>
+    <color name="fondo_oscuro">#FF111318</color>
+    <color name="primario">#FF415F91</color>
+</resources>
